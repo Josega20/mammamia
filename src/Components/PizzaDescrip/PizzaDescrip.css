@@ -1,0 +1,23 @@
+.cardss{display: flex;
+justify-content: center;}
+.image{width: 50%;}
+
+
+    .title{ color: rgb(56, 54, 54);
+    font-weight:bold;
+  font-size: x-large;
+  padding-bottom: 10px;
+  border-bottom: solid 1px;
+  }
+  
+  .ingredientes{border-bottom: solid 1px;
+  }
+  
+  .ingrediente{text-decoration:none;
+    list-style: none;}
+  
+   .price{color: black;
+    display: inline-block;
+  padding-right: 1em;
+  justify-content: space-around;}
+  .buttons{display: inline-block}

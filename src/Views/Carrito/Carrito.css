@@ -1,0 +1,25 @@
+.container1{display:flex;
+    flex-direction: column;
+    width: 90%;
+    margin-top: 2em;
+    margin-left: 5em;
+    background-color: rgb(234, 233, 235);}
+
+
+.container2{display: flex;
+width: 99%;
+justify-content: space-between;
+align-items: center;
+background-color: white;
+border-bottom: solid black 1px;}
+
+.present{display: flex;
+   
+
+}
+.imagenCarrito{width: 10rem;}
+
+.precio{ display: flex;}
+
+.add{ width: 3em;
+height: 3em;}
